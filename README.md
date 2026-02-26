@@ -1,5 +1,7 @@
 # **Health Simulation: Patient Risk Analysis Using Python & NumPy**
 <img width="850" height="553" alt="image" src="https://github.com/user-attachments/assets/6694ea24-dbb7-4239-aebd-1f98c9a73a11" />
+
+
 ## **Project Overview**
 
 This project simulates a mini health analytics system.
