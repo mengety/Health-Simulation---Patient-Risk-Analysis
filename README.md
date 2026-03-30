@@ -3,7 +3,6 @@
 
 
 ## **Project Overview**
-
 This project simulates a mini health analytics system.
 
 You create a **synthetic dataset** of 10,000 patients with the following health features:
